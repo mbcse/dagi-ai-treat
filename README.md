@@ -31,4 +31,4 @@ Token Treat Contract : https://sepolia.basescan.org/address/0x985e2bb9efd8bc85b7
 
 ## TryOut Link
 
-[token-treat-ai.vercel.app](https://tokentreat-ai.vercel.app/)
+[token-treat-ai.vercel.app](https://dagi-ai-treat.vercel.app/)
